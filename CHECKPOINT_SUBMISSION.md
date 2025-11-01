@@ -2,13 +2,13 @@
 ## Interactive Health Inequality Visualization
 
 **Team:** [Undetermined]  
-**Date:** October 31, 2024
+**Date:** October 31, 2025
 
 ---
 
 ## 1. Dataset Chosen
 
-### Primary Dataset: County Health Rankings & Roadmaps (2024)
+### Primary Dataset: County Health Rankings & Roadmaps (2025)
 **Source:** [https://www.countyhealthrankings.org/health-data](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)("2025 County Health Release National Data")
 
 **Provider:** Robert Wood Johnson Foundation & University of Wisconsin Population Health Institute  
